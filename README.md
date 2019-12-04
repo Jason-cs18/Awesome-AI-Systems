@@ -7,7 +7,8 @@ With developments of big data, big systems and large open-source AI frameworks, 
 4. AI demands outpucing the Moore's Law (Develop domain-specific architectures and software systems to address the performance needs of future AI applications in the post-Moore's Law era, including custom chips for AI work-loads, edge-cloud systems to efficiently process data at the edge, and techniques for abstracting and sampling data).
 In the four challenges, [1] proposed nine research opportunites: 1) Continual learning; 2) Robust decision; 3) Explainable decision; 4) Secure enclaves; 5) Adversarial learning; 6) Sharing learning on confidential data; 7) AI-specific architecturesl; 8) Composable AI systems;
 9) Cloud-edge systems. I arrange AI-sys papers in these nine categories as follows and put classic AI papers in the first subsection.<br>
-[1] [Stoica et al. A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
+
+[1] [Stoica et al. A Berkeley View of Systems Challenges for AI.](https://arxiv.org/pdf/1712.05855.pdf)
 ## Classic AI-models
 ## Continual learning
 1. Build systems for RL that fully exploit parallelism, while allowing dynamic task graphs, providing millisecond-level la- tencies, and running on heterogeneous hardware under stringent deadlines.
