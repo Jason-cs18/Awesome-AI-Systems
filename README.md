@@ -34,6 +34,9 @@ Design AI systems and APIs that allow the composition of models and actions in a
 1. Design cloud-edge AI systems that leverage the edge to reduce latency, improve safety and security, and implement intel- ligent data retention techniques.
 2. Design cloud-edge AI systems that leverage the cloud to share data and models across edge devices, train sophisticated computation- intensive models, and take high quality decisions.
 # Useful external Resources
+## Books for Deep Learning (a popular learning approaches in machine learning)
+1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
+2. [Deep Learning](http://www.deeplearningbook.org/)
 ## Course
 1. [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/)
 2. [AI-Sys: Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/#today)
