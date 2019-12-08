@@ -38,7 +38,7 @@ Design AI systems and APIs that allow the composition of models and actions in a
 1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
 2. [Deep Learning](http://www.deeplearningbook.org/)
 ## Course
-1. [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/)
+1. [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/): Low-level optimization in Deep Learning frameworks.
 2. [AI-Sys: Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/#today)
 ## Conference
 1. [SysML: Systems and Machine Learning](https://mlsys.org/Conferences/2019/index.html#body)
