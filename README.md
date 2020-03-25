@@ -2,7 +2,7 @@ Research notes and code for AI-Systems. If you are interested in building ai-sys
 # AI-Systems
 As discussed in [1, 2], there are three system-level concerns in real-world AI applications. They are deployment, cost and accessibility. 
 
-[1] [Stoica et al. A Berkeley View of Systems Challenges for AI.](https://arxiv.org/pdf/1712.05855.pdf)
+[1] [Stoica et al. A Berkeley View of Systems Challenges for AI.](https://arxiv.org/pdf/1712.05855.pdf)<br>
 [2] [Ratner et al. MLSys: The New Frontier of Machine Learning Systems.](https://arxiv.org/abs/1904.03257)
 
 ## Deployment Concerns
