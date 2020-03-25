@@ -1,4 +1,4 @@
-Research notes and code for AI-Systems. If you are interested in building ai-systems, you may like this resource.
+Research notes and codes for AI-Systems. If you are interested in building ai-systems, you may like this resource.
 # AI-Systems
 As discussed in [1, 2], there are three system-level concerns in real-world AI applications. They are deployment, cost and accessibility. 
 
