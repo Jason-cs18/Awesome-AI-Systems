@@ -8,8 +8,9 @@ As discussed in [1, 2], there are three system-level concerns in real-world AI a
 ## Deployment Concerns
 Deployment concerns include **robustness** to adversarial influences or other spurious factors; safety more broadly considered; **privacy** and security, especially as sensitive data is increasingly used; **interpretability**, as is increasingly both legally and operationally required; **fairness**, as ML algorithms begin to have major effects on our everyday lives; and many other similar concerns.
 ## Cost
+Cost on annotation, computation, latency and power.
 ## Accessibility
-
+Accessibility to developers and organizations without PhD-level machine learning and systems expertise.
 # Useful external Resources
 ## Books for Deep Learning (a popular learning approaches in machine learning)
 1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
