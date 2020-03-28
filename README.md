@@ -21,7 +21,7 @@ Cost on annotation, computation, latency and power. <br>
 ## Accessibility
 Accessibility to developers and organizations without PhD-level machine learning and systems expertise.
 ###### Paper
-[1] [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new hyperparameter optimization algorithm named ASHA to solve large-scale hyperparameter optimization problems in distributed training.
+[1] [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new hyperparameter optimization algorithm named ASHA to solve large-scale hyperparameter optimization problems in distributed training.<br>
 [2] [PLink: Discovering and Exploiting Locality for Accelerated Distributed Training on the public Cloud. In MLSys'20.](PLink: Discovering and Exploiting Locality for Accelerated Distributed Training on the public Cloud): they introduced a new optimized communication library called PLink to speed up distributed training in public cloud.
 # Useful external Resources
 ## Books for Deep Learning (a popular learning approaches in machine learning)
