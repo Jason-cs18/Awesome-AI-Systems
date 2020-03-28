@@ -14,13 +14,13 @@ Deployment concerns include **robustness** to adversarial influences or other sp
 [2] [Themis: Fair and Efficient GPU Cluster Scheduling. In NSDI'20.](https://www.usenix.org/conference/nsdi20/presentation/mahajan): a **fair** GPU scheduling algorithm.
 ## Cost
 Cost on annotation, computation, latency and power. <br>
-### Video
+###### Video
 [1] [Theory & Systems for Weak Supervision. In MLSys'20.](https://www.youtube.com/watch?v=CR1g2-ZqswE): [Christopher Ré](https://cs.stanford.edu/people/chrismre/) highlighted the importance of **data** in the real world deployments because we aren't usually able to get enough high quality labels for large training data. To bride this gap, he introduced many works from theoretical analysis to real world deployment about weak supervised learning, which only learns from noisy weakly labels. Also, He introduced [Snorkel](https://www.snorkel.org/) which is a popular weak supervised framework developed by Brown University.
-### Paper
+###### Paper
 [1] [Improving Resource Efficiency of Deep Activity Recognition via Redundancy Reduction. In HotMobile'20.](https://dl.acm.org/doi/abs/10.1145/3376897.3377859): they target to reduce cost on **computation and memory** of deep human activity recognition (HAR) models. [Note](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/HAR_HotMobile_20.md)
 ## Accessibility
 Accessibility to developers and organizations without PhD-level machine learning and systems expertise.
-### Paper
+###### Paper
 [1] [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new hyperparameter optimization algorithm named ASHA to solve large-scale hyperparameter optimization problems in distributed training.
 # Useful external Resources
 ## Books for Deep Learning (a popular learning approaches in machine learning)
