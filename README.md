@@ -1,4 +1,4 @@
-Research notes and codes for AI-Systems. If you are interested in building ai-systems, you may like this resource.
+Research notes and codes for AI-Systems. Since I'm interested in building and deploying intelligent video-based applications, I will take notes for intelligent video systems carefully. But for other AI systems, I only summarize their problems.
 # AI-Systems
 As discussed in [1, 2], there are three system-level concerns in real-world AI applications. They are deployment, cost and accessibility. 
 
@@ -6,10 +6,11 @@ As discussed in [1, 2], there are three system-level concerns in real-world AI a
 [2] [Ratner et al. MLSys: The New Frontier of Machine Learning Systems.](https://arxiv.org/abs/1904.03257)
 
 ## Deployment Concerns
-Deployment concerns include **robustness** to adversarial influences or other spurious factors; safety more broadly considered; **privacy** and security, especially as sensitive data is increasingly used; **interpretability**, as is increasingly both legally and operationally required; **fairness**, as ML algorithms begin to have major effects on our everyday lives; and many other similar concerns.
+Deployment concerns include **robustness** to adversarial influences or other spurious factors; safety more broadly considered; **privacy** and security, especially as sensitive data is increasingly used; **interpretability**, as is increasingly both legally and operationally required; **fairness**, as ML algorithms begin to have major effects on our everyday lives; and many other similar concerns.<br>
+[1] [Telekine: Secure Computing with Cloud GPUs. In NSDI'20.](https://www.usenix.org/conference/nsdi20/presentation/hunt): they aim to solve some concerns about privacy in the recent GPU trusted execution environments (TEE).
 ## Cost
 Cost on annotation, computation, latency and power. <br>
-[1] [Improving Resource Efficiency of Deep Activity Recognition via Redundancy Reduction. In HotMobile'20.](https://dl.acm.org/doi/abs/10.1145/3376897.3377859): they target to reduce cost on computation and memory of deep human activity recognition (HAR) models. [Note](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/HAR_HotMobile_20.md)
+[1] [Improving Resource Efficiency of Deep Activity Recognition via Redundancy Reduction. In HotMobile'20.](https://dl.acm.org/doi/abs/10.1145/3376897.3377859): they target to reduce cost on **computation and memory** of deep human activity recognition (HAR) models. [Note](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/HAR_HotMobile_20.md)
 ## Accessibility
 Accessibility to developers and organizations without PhD-level machine learning and systems expertise.
 # Useful external Resources
