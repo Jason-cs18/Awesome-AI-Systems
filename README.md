@@ -12,7 +12,7 @@ Deployment concerns include **robustness** to adversarial influences or other sp
 ###### Paper
 [1] [Telekine: Secure Computing with Cloud GPUs. In NSDI'20.](https://www.usenix.org/conference/nsdi20/presentation/hunt): they aim to solve some concerns about **privacy** in the recent GPU trusted execution environments (TEE). <br>
 [2] [Themis: Fair and Efficient GPU Cluster Scheduling. In NSDI'20.](https://www.usenix.org/conference/nsdi20/presentation/mahajan): a **fair** GPU scheduling algorithm. <br>
-[3] [Federated Optimization in Heterogeneous Networks. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1406): they proposed a framework named FedProx to tackle heterogeneity in **federated** networks. Traditional feaderated learning frameworks targeted to solve problems about **privacy** in machine learning but suffered from systems heterogeneity and statistical heterogeneity (non-identical distributions). 
+[3] [Federated Optimization in Heterogeneous Networks. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1406): they proposed a framework named FedProx to tackle heterogeneity in **federated** networks. Traditional feaderated learning frameworks targeted to solve problems about **privacy** in machine learning but suffered from challenges about systems heterogeneity and statistical heterogeneity (non-identical distributions). 
 ## Cost
 Cost on annotation, computation, latency and power. <br>
 ###### Video
@@ -20,10 +20,11 @@ Cost on annotation, computation, latency and power. <br>
 ###### Paper
 [1] [Improving Resource Efficiency of Deep Activity Recognition via Redundancy Reduction. In HotMobile'20.](https://dl.acm.org/doi/abs/10.1145/3376897.3377859): they target to reduce cost on **computation and memory** of deep human activity recognition (HAR) models. [Note](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/HAR_HotMobile_20.md)
 ## Accessibility
-Accessibility to developers and organizations without PhD-level machine learning and systems expertise.
+Accessibility to developers and organizations without PhD-level machine learning and systems expertise. From my perspective, most of distributed training works belong to this area because optimize distributed learning tool could help developers deploy their machine learning algorithms fast.
 ###### Paper
-[1] [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new **hyperparameter optimization algorithm** named ASHA to solve large-scale hyperparameter optimization problems in distributed training.<br>
-[2] [PLink: Discovering and Exploiting Locality for Accelerated Distributed Training on the public Cloud. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1405): they introduced a new optimized **communication library** called PLink to speed up distributed training in public cloud.
+[1] [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new **hyperparameter optimization algorithm** named ASHA to solve large-scale hyperparameter optimization problems in distributed training. <br>
+[2] [PLink: Discovering and Exploiting Locality for Accelerated Distributed Training on the public Cloud. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1405): they introduced a new optimized **communication library** called PLink to speed up distributed training in public cloud. <br>
+[3] [BPPSA: Scaling Back-propagation by Parallel Scan Algorithm](https://mlsys.org/Conferences/2020/Schedule?showEvent=1407): they reformulated the commonly used **back-propagation (BP) algorithm** into a scan operation to handle the limitation of BP in a parallel computing environment.
 # Useful external Resources
 ## Books for Deep Learning (a popular learning approaches in machine learning)
 1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
