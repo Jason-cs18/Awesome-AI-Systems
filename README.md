@@ -9,7 +9,7 @@ As discussed in [1, 2], there are three system-level concerns in real-world AI a
 Deployment concerns include **robustness** to adversarial influences or other spurious factors; safety more broadly considered; **privacy** and security, especially as sensitive data is increasingly used; **interpretability**, as is increasingly both legally and operationally required; **fairness**, as ML algorithms begin to have major effects on our everyday lives; and many other similar concerns.
 ## Cost
 Cost on annotation, computation, latency and power. <br>
-[1] [Improving Resource Efficiency of Deep Activity Recognition via Redundancy Reduction. In HotMobile'20.](https://dl.acm.org/doi/abs/10.1145/3376897.3377859): they target to reduce cost on computation and memory of deep human activity recognition (HAR) models.
+[1] [Improving Resource Efficiency of Deep Activity Recognition via Redundancy Reduction. In HotMobile'20.](https://dl.acm.org/doi/abs/10.1145/3376897.3377859): they target to reduce cost on computation and memory of deep human activity recognition (HAR) models. [Note](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/HAR_HotMobile_20.md)
 ## Accessibility
 Accessibility to developers and organizations without PhD-level machine learning and systems expertise.
 # Useful external Resources
