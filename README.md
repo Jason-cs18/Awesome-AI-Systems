@@ -20,6 +20,8 @@ Cost on annotation, computation, latency and power. <br>
 [1] [Improving Resource Efficiency of Deep Activity Recognition via Redundancy Reduction. In HotMobile'20.](https://dl.acm.org/doi/abs/10.1145/3376897.3377859): they target to reduce cost on **computation and memory** of deep human activity recognition (HAR) models. [Note](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/HAR_HotMobile_20.md)
 ## Accessibility
 Accessibility to developers and organizations without PhD-level machine learning and systems expertise.
+### Paper
+[1] [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new hyperparameter optimization algorithm named ASHA to solve large-scale hyperparameter optimization problems in distributed training.
 # Useful external Resources
 ## Books for Deep Learning (a popular learning approaches in machine learning)
 1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
