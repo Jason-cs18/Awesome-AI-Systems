@@ -8,14 +8,14 @@ As discussed in [1, 2], there are three system-level concerns in real-world AI a
 ## Deployment Concerns
 Deployment concerns include **robustness** to adversarial influences or other spurious factors; safety more broadly considered; **privacy** and security, especially as sensitive data is increasingly used; **interpretability**, as is increasingly both legally and operationally required; **fairness**, as ML algorithms begin to have major effects on our everyday lives; and many other similar concerns.<br>
 ###### Video
-[1] [Cryptography for Safe Machine Learning. In MLSys'20.](https://www.youtube.com/watch?v=VlfZ7-5bKqk): [Shafi Goldwasser](https://simons.berkeley.edu/people/shafi-goldwasser) presented some techniques about cryptography in machine learning.
+1. [Cryptography for Safe Machine Learning. In MLSys'20.](https://www.youtube.com/watch?v=VlfZ7-5bKqk): [Shafi Goldwasser](https://simons.berkeley.edu/people/shafi-goldwasser) presented some techniques about cryptography in machine learning.
 ###### Paper
-[1] [Telekine: Secure Computing with Cloud GPUs. In NSDI'20.](https://www.usenix.org/conference/nsdi20/presentation/hunt): they aim to solve some concerns about **privacy** in the recent GPU trusted execution environments (TEE). <br>
-[2] [Themis: Fair and Efficient GPU Cluster Scheduling. In NSDI'20.](https://www.usenix.org/conference/nsdi20/presentation/mahajan): a **fair** GPU scheduling algorithm. <br>
-[3] [Federated Optimization in Heterogeneous Networks. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1406): they proposed a framework named FedProx to tackle heterogeneity in **federated** networks. Traditional feaderated learning frameworks targeted to solve problems about **privacy** in machine learning but suffered from challenges about systems heterogeneity and statistical heterogeneity (non-identical distributions).<br>
-[4] [FLEET: Flexible Eﬃcient Ensemble Training for Heterogeneous Deep Neural Networks. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1411): to handle **poor performance of data sharing strategy in a heterogenous set of DNNs**, authors intro duced a ﬂexible ensemble DNN training framework named FLEET.<br>
-[5] [What is the State of Neural Network Pruning? In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1413): authors prop osed an open-source framework named ShrinkBench to **evaluate pruning methods**.<br>
-[6] [Attention-based Learning for Missing Data Imputation in HoloClean. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1417): they utilized attention mechanism to **analysis and interpret miss- ing data imputation** problem.
+1. [Telekine: Secure Computing with Cloud GPUs. In NSDI'20.](https://www.usenix.org/conference/nsdi20/presentation/hunt): they aim to solve some concerns about **privacy** in the recent GPU trusted execution environments (TEE). <br>
+2. [Themis: Fair and Efficient GPU Cluster Scheduling. In NSDI'20.](https://www.usenix.org/conference/nsdi20/presentation/mahajan): a **fair** GPU scheduling algorithm. <br>
+3. [Federated Optimization in Heterogeneous Networks. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1406): they proposed a framework named FedProx to tackle heterogeneity in **federated** networks. Traditional feaderated learning frameworks targeted to solve problems about **privacy** in machine learning but suffered from challenges about systems heterogeneity and statistical heterogeneity (non-identical distributions).<br>
+4. [FLEET: Flexible Eﬃcient Ensemble Training for Heterogeneous Deep Neural Networks. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1411): to handle **poor performance of data sharing strategy in a heterogenous set of DNNs**, authors intro duced a ﬂexible ensemble DNN training framework named FLEET.<br>
+5. [What is the State of Neural Network Pruning? In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1413): authors prop osed an open-source framework named ShrinkBench to **evaluate pruning methods**.<br>
+6. [Attention-based Learning for Missing Data Imputation in HoloClean. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1417): they utilized attention mechanism to **analysis and interpret miss- ing data imputation** problem.
 ## Cost
 Cost on annotation, computation, latency and power. <br>
 ###### Video
@@ -31,11 +31,11 @@ Cost on annotation, computation, latency and power. <br>
 ## Accessibility
 Accessibility to developers and organizations without PhD-level machine learning and systems expertise. From my perspective, most of distributed training works belong to this area because optimizing distributed learning tools could help developers deploy their machine learning algorithms fast.
 ###### Paper
-[1] [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new **hyperparameter optimization algorithm** named ASHA to solve large-scale hyperparameter optimization problems in distributed training. <br>
-[2] [PLink: Discovering and Exploiting Locality for Accelerated Distributed Training on the public Cloud. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1405): they introduced a new optimized **communication library** called PLink to speed up distributed training in public cloud. <br>
-[3] [BPPSA: Scaling Back-propagation by Parallel Scan Algorithm. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1407): they reformulated the commonly used **back-propagation (BP) algorithm** into a scan operation to handle the limitation of BP in a parallel computing environment.<br>
-[4] [MNN: A Universal and Eﬃcient Inference Engine. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1415): **further reading**.<br>
-[5] [Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1416): **further reading**.
+1. [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new **hyperparameter optimization algorithm** named ASHA to solve large-scale hyperparameter optimization problems in distributed training. <br>
+2. [PLink: Discovering and Exploiting Locality for Accelerated Distributed Training on the public Cloud. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1405): they introduced a new optimized **communication library** called PLink to speed up distributed training in public cloud. <br>
+3. [BPPSA: Scaling Back-propagation by Parallel Scan Algorithm. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1407): they reformulated the commonly used **back-propagation (BP) algorithm** into a scan operation to handle the limitation of BP in a parallel computing environment.<br>
+4. [MNN: A Universal and Eﬃcient Inference Engine. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1415): **further reading**.<br>
+5. [Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1416): **further reading**.
 # Useful external Resources
 ## Books for Deep Learning (a popular learning approaches in machine learning)
 1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
