@@ -39,14 +39,14 @@ Cost on annotation, computation, latency and power. <br>
 14. [Searching for Winograd-aware Quantized Networks. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1433): a new quantized network.<br>
 15. [Blink: Fast and Generic Collectives for Distributed ML. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1434): authors introduced Blink, a collective communication library that **dynamically generates optimal communication primitives by packing spanning trees**.<br>
 16. [MotherNets: Rapid Deep Ensemble Learning. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1436): to overcome **large demanding resources when training deep ensemble networks**, they proposed MotherNets to reduce training cost.
+17. [Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1416): **further reading**.
 ## Accessibility
 Accessibility to developers and organizations without PhD-level machine learning and systems expertise. From my perspective, most of distributed training works belong to this area because optimizing distributed learning tools could help developers deploy their machine learning algorithms fast.
 ###### Paper
 1. [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new **hyperparameter optimization algorithm** named ASHA to solve large-scale hyperparameter optimization problems in distributed training. <br>
 2. [PLink: Discovering and Exploiting Locality for Accelerated Distributed Training on the public Cloud. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1405): they introduced a new optimized **communication library** called PLink to speed up distributed training in public cloud. <br>
 3. [BPPSA: Scaling Back-propagation by Parallel Scan Algorithm. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1407): they reformulated the commonly used **back-propagation (BP) algorithm** into a scan operation to handle the limitation of BP in a parallel computing environment.<br>
-4. [MNN: A Universal and Eﬃcient Inference Engine. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1415): they proposed Mobile Neural Network (MNN), a universal and efficient **inference engine tailored to mobile applications**.<br>
-5. [Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1416): **further reading**.
+4. [MNN: A Universal and Eﬃcient Inference Engine. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1415): they proposed Mobile Neural Network (MNN), a universal and efficient **inference engine tailored to mobile applications**.
 # Useful external Resources
 ## Books for Deep Learning (a popular learning approaches in machine learning)
 1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
