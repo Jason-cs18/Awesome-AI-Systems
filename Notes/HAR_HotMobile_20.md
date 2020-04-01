@@ -7,4 +7,4 @@ Due to the choose of long overlapping slide windows, the deep HAR models use con
 Successive predictions for same activity and long overlapping slide window bring large unnecessary computations in the current deep HAR models.
 ## Evaluation
 They used CNN-LSTM network as a baseline and compared this with three variants of their method: CNN-LSTM SN, CNN-LSTM SNR and InnHAR. Their metrics are include F1-Score (F1), Number of parameters (NPA), Number of predictions (NPR), Total computational effort (TCE) and Prediction delay of new activties (PDNA). The Table-1 show their experimental results.
-![](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/HAR_2.png) 
+![](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/Images/HAR_2.png) 
