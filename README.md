@@ -51,7 +51,7 @@ Accessibility to developers and organizations without PhD-level machine learning
 ## Books for Deep Learning (a popular learning approaches in machine learning)
 1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
 2. [Deep Learning](http://www.deeplearningbook.org/)
-3. [智能计算系统/AI Computing Systems](https://www.amazon.cn/dp/B085SZ968V/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F&qid=1585763990&sr=8-1)
+3. [智能计算系统 (AI Computing Systems)](https://www.amazon.cn/dp/B085SZ968V/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F&qid=1585763990&sr=8-1)
 ## Course
 1. [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/): Low-level optimization in Deep Learning frameworks.
 2. [AI-Sys: Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/#today)
