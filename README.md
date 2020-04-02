@@ -7,6 +7,7 @@ As discussed in [1, 2], there are three system-level concerns in real-world AI a
 
 ## Deployment Concerns
 Deployment concerns include **robustness** to adversarial influences or other spurious factors; safety more broadly considered; **privacy** and security, especially as sensitive data is increasingly used; **interpretability**, as is increasingly both legally and operationally required; **fairness**, as ML algorithms begin to have major effects on our everyday lives; and many other similar concerns.<br>
+### Popular approaches (todo, summary)
 ###### Video
 1. [Cryptography for Safe Machine Learning. In MLSys'20.](https://www.youtube.com/watch?v=VlfZ7-5bKqk): [Shafi Goldwasser](https://simons.berkeley.edu/people/shafi-goldwasser) presented some techniques about cryptography in machine learning.
 ###### Paper
@@ -20,6 +21,7 @@ Deployment concerns include **robustness** to adversarial influences or other sp
 8. [MLPerf Training Benchmark. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1437): a machine learning benchmark for **training** tasks.
 ## Cost
 Cost on annotation, computation, latency and power. <br>
+### Popular approaches (todo, summary)
 ###### Video
 1. [Theory & Systems for Weak Supervision. In MLSys'20.](https://www.youtube.com/watch?v=CR1g2-ZqswE): [Christopher Ré](https://cs.stanford.edu/people/chrismre/) highlighted the importance of **data** in the real world deployments because we aren't usually able to get enough high quality labels for large training data. To bride this gap, he introduced many works from theoretical analysis to real world deployment about weak supervised learning, which only learns from noisy weakly labels. Also, He introduced [Snorkel](https://www.snorkel.org/) which is a popular weak supervised framework developed by Brown University.
 ###### Paper
@@ -42,6 +44,7 @@ Cost on annotation, computation, latency and power. <br>
 17. [Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1416): compared with many optimizers for ML inference, they proposed Willump, an end2end optimizer for machine learning inference pipelines built on two novel optimizations: **cascade feature computations and approximating top-K queries**. [Note](https://github.com/YanLu-nyu/Awesome-AI-Systems/blob/master/Notes/Willump.md)
 ## Accessibility
 Accessibility to developers and organizations without PhD-level machine learning and systems expertise. From my perspective, most of distributed training works belong to this area because optimizing distributed learning tools could help developers deploy their machine learning algorithms fast.
+### Popular approaches (todo, summary)
 ###### Paper
 1. [A System for Massively Parallel Hyperparameter Tuning. In MLSys'20.](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/94-Paper.pdf): they proposed a new **hyperparameter optimization algorithm** named ASHA to solve large-scale hyperparameter optimization problems in distributed training. <br>
 2. [PLink: Discovering and Exploiting Locality for Accelerated Distributed Training on the public Cloud. In MLSys'20.](https://mlsys.org/Conferences/2020/Schedule?showEvent=1405): they introduced a new optimized **communication library** called PLink to speed up distributed training in public cloud. <br>
