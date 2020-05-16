@@ -56,8 +56,9 @@ Accessibility to developers and organizations without PhD-level machine learning
 2. [Deep Learning](http://www.deeplearningbook.org/)
 3. [智能计算系统 (AI Computing Systems)](https://www.amazon.cn/dp/B085SZ968V/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F&qid=1585763990&sr=8-1)
 ## Course
-1. [CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/): Low-level optimization in Deep Learning frameworks.
-2. [AI-Sys: Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/#today)
+1. (UW)[CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/): Low-level optimization in Deep Learning frameworks.
+2. (UCB)[AI-Sys: Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/#today): a general course for AI systems.
+3. (UMich)[EECS 598: Systems for AI (W'20)](https://github.com/mosharaf/eecs598/tree/w20-ai): a general course for AI systems.
 ## Conference
 1. [SysML: Systems and Machine Learning](https://mlsys.org/Conferences/2019/index.html#body)
 2. [SOSP: ACM Symposium on Operating Systems Principles](https://sosp19.rcs.uwaterloo.ca/program.html)
