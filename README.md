@@ -55,6 +55,7 @@ Accessibility to developers and organizations without PhD-level machine learning
 1. [Dive into Deep Learning](http://d2l.ai/chapter_linear-networks/index.html)
 2. [Deep Learning](http://www.deeplearningbook.org/)
 3. [智能计算系统 (AI Computing Systems)](https://www.amazon.cn/dp/B085SZ968V/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E6%99%BA%E8%83%BD%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F&qid=1585763990&sr=8-1)
+4. [Tutorial on hardware accelerators for deep neural networks (Energy-Efficient Multimedia Systems group at MIT)](http://eyeriss.mit.edu/tutorial.html)
 ## Course
 1. (UW)[CSE 599W: Systems for ML](http://dlsys.cs.washington.edu/): Low-level optimization in Deep Learning frameworks.
 2. (UCB)[AI-Sys: Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-fa19/#today): a general course for AI systems.
