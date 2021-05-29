@@ -1,3 +1,5 @@
+# Thanks for your interests.
+Because I focus on collaborative learning between [multi-camera networks](https://github.com/YanLu-nyu/Awesome-Multi-Camera-Network) and don't have time to organize recent research works on AI systems, I will not maintain this github. [Awesome-System-for-Machine-Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning) maintained by [HuaizhengZhang](https://github.com/HuaizhengZhang) is an comprehensive list of rencent works on AI systems, especially on distributed machine learning systems.
 Research notes and codes for AI-Systems. Since I'm interested in building and deploying intelligent video-based applications, I will take notes for intelligent video systems carefully. But for other AI systems, I only summarize their problems.
 # AI-Systems
 As discussed in [1, 2], there are three system-level concerns in real-world AI applications. They are deployment, cost and accessibility. 
